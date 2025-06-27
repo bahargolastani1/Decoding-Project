@@ -1,4 +1,4 @@
-## UCL_Decoding_Project
+## Decoding Project
 
 This project reads one or more nucleotide sequences from a FASTA file and translates them into amino acid sequences based on the standard genetic code.
 
